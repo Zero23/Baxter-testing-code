@@ -1,3 +1,2 @@
 # Baxter-testing-code
-OpenCV 
-This node is just the simple testing node 
+I simply put my code in the Baxter_example package 
